@@ -1,3 +1,4 @@
+
 Android DeviceOwner Sample
 ===================================
 
@@ -29,8 +30,8 @@ As a device owner, you can also use the features available for managed profile o
 Pre-requisites
 --------------
 
-- Android SDK v21
-- Android Build Tools v21.1.2
+- Android SDK v23
+- Android Build Tools v23.0.3
 - Android Support Repository
 
 Screenshots
